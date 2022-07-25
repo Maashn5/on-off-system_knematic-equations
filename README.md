@@ -1,3 +1,3 @@
 # on-off-system_knematic-equations
-##on off system using pusch button 
+## on off system 
 ## knematic equation
