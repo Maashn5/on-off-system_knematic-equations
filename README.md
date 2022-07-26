@@ -25,4 +25,5 @@ in on off systems by using a push button, with a single change (on or off) with 
 <br/> to protect the relay from reverse current.
 <br/> Here is the circuit
 <br/> ![alt text](https://github.com/Maashn5/on-off-system_knematic-equations/blob/main/on%20off%20system.png)
+<br/> [Here is the simulation link for the circuit](https://www.tinkercad.com/things/h2Qnr8GqlwS?sharecode=uJGjH094gYhzXHnRIB97MQHVZjRLOgiVTZa7BDeb5bo)
 ## knematic equation
