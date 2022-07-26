@@ -19,5 +19,10 @@ in on off systems by using a push button, with a single change (on or off) with 
 <br/> Otherwise nothing will happen , so if we keep the T input (j,k input) always high
 <br/> And connect the push button to the clock ,so when the push button is pressed the rising edge will activate the
 <br/> clock pin & the flipflop ,since the T is always high this will change the state of the output.
-<br/> The reset will keep it 
+<br/> The reset pin we will keep it high so there will be no resets.
+<br/> When the output is high this will activate the nmos transistor, thus the relay will be activated,   
+<br/> thus the load will be activated too , there is a diode connected in parallel & reverse connection 
+<br/> to protect the relay from reverse current.
+<br/> Here is the circuit
+<br/> ![alt text](https://github.com/Maashn5/on-off-system_knematic-equations/blob/main/on%20off%20system.png)
 ## knematic equation
